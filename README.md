@@ -1,4 +1,4 @@
-# quantum-k-means
+# Quantum-k-means
 A Qiskit implementation of a version of the quantum k-means algorithm.
 
 # Main purpose
